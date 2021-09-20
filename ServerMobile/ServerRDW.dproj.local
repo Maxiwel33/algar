@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/01/24 21:17:01.000.112,=C:\Users\clade\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/28 18:48:17.000.399,=C:\Users\clade\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/03/21 21:48:24.000.269,=C:\Users\clade\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/03/29 16:46:59.000.912,=C:\Users\clade\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/12 07:11:25.000.712,=C:\Users\clade\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/25 21:03:41.000.817,=C:\Users\clade\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/05/09 06:40:19.000.672,=C:\Users\clade\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/05/24 07:38:00.000.447,=C:\Users\clade\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/06/28 08:30:05.000.649,=C:\Users\clade\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/21 08:54:37.000.551,=C:\Users\clade\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/10 21:25:46.348,=C:\Users\clade\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/10 21:29:03.960,=C:\Users\clade\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/08/10 21:30:47.439,C:\Algar\ServerMobile\U_principal.pas=C:\Users\clade\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/10 21:30:47.439,C:\Algar\ServerMobile\U_principal.fmx=C:\Users\clade\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2021/08/10 21:30:56.084,C:\Algar\ServerMobile\U_Modulo.dfm=C:\Users\clade\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2021/08/10 21:30:56.084,C:\Algar\ServerMobile\U_Modulo.pas=C:\Users\clade\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/08/10 21:31:02.518,C:\Algar\ServerMobile\ServerRDW.dproj=C:\Users\clade\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>  <ActiveMobileDevice>   <NoProfile iOSSimulator="iPhone5" Android=""/>
+  </ActiveMobileDevice>
+</BorlandProject>

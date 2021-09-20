@@ -1,0 +1,43 @@
+unit U_Modulo;
+
+interface
+
+uses
+  System.SysUtils, System.Classes,uDWDatamodule, uDWAbout, uRESTDWServerEvents,
+  uDWConsts, uDWJSONObject,System.Json;
+
+type
+  TDM = class(TServerMethodDataModule)
+    DWEvents: TDWServerEvents;
+    procedure DWEventsEventsgetfileReplyEventByType(var Params: TDWParams;
+      var Result: string; const RequestType: TRequestType;
+      var StatusCode: Integer; RequestHeader: TStringList);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  DM: TDM;
+
+implementation
+
+{%CLASSGROUP 'FMX.Controls.TControl'}
+
+{$R *.dfm}
+
+procedure TDM.DWEventsEventsgetfileReplyEventByType(var Params: TDWParams;
+  var Result: string; const RequestType: TRequestType; var StatusCode: Integer;
+  RequestHeader: TStringList);
+  var
+  body:TjsonValue;
+  arq:string;
+  ArqStream: TMemoryStream;
+  Ret:uDWJsonObject.TJSONValue;
+
+begin
+   Result :='Hello Maxiwel';
+end;
+
+end.

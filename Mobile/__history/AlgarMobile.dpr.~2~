@@ -1,0 +1,16 @@
+program AlgarMobile;
+
+uses
+  System.StartUpCopy,
+  FMX.Forms,
+  U_principal in 'U_principal.pas' {Form1},
+  U_DM in 'U_DM.pas' {DataModule1: TDataModule};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.CreateForm(TForm1, Form1);
+  Application.CreateForm(TDataModule1, DataModule1);
+  Application.Run;
+end.
